@@ -1,0 +1,25 @@
+{
+  "name": "13.8-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrmadeja/13.8-HTTP-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrmadeja/13.8-HTTP-server/issues"
+  },
+  "homepage": "https://github.com/piotrmadeja/13.8-HTTP-server#readme",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "colors": "^1.2.4",
+    "stat-mode": "^0.2.2"
+  }
+}
